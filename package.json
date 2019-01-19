@@ -1,0 +1,25 @@
+{
+  "name": "ww",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dangvanduc90/dangvanduc90.github.io.git"
+  },
+  "keywords": [
+    "dangvanduc.github.io.git"
+  ],
+  "author": "dangvanduc90",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dangvanduc90/dangvanduc90.github.io/issues"
+  },
+  "homepage": "https://github.com/dangvanduc90/dangvanduc90.github.io#readme",
+  "dependencies": {
+    "bootstrap": "^4.2.1"
+  }
+}
