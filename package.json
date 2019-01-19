@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/dangvanduc90/dangvanduc90.github.io#readme",
   "dependencies": {
-    "bootstrap": "^4.2.1"
+    "bootstrap": "^4.2.1",
+    "jquery": "^3.3.1"
   }
 }
